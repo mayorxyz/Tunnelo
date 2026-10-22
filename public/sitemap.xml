@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tunnelo.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://tunnelo.com/download</loc><priority>0.9</priority></url>
+  <url><loc>https://tunnelo.com/pricing</loc><priority>0.9</priority></url>
+  <url><loc>https://tunnelo.com/changelog</loc><priority>0.8</priority></url>
+  <url><loc>https://tunnelo.com/docs</loc><priority>0.8</priority></url>
+  <url><loc>https://tunnelo.com/docs/quick-start</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/installation</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/public-urls</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/custom-domains</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/local-domains</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/cli</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/ai-agents</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/docs/troubleshooting</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/blog</loc><priority>0.8</priority></url>
+  <url><loc>https://tunnelo.com/blog/testing-stripe-webhooks-localhost</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/blog/share-build-without-deploying</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/blog/what-is-a-snapshot</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/blog/local-https-without-certificate-warnings</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/blog/giving-ai-agents-public-url</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/blog/debugging-oauth-callbacks-locally</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/tools/webhook-tester</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/ai-code-assistants</loc><priority>0.7</priority></url>
+  <url><loc>https://tunnelo.com/alternatives/ngrok</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/alternatives/cloudflare-tunnel</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/alternatives/tailscale-funnel</loc><priority>0.6</priority></url>
+  <url><loc>https://tunnelo.com/security</loc><priority>0.5</priority></url>
+  <url><loc>https://tunnelo.com/dpa</loc><priority>0.4</priority></url>
+  <url><loc>https://tunnelo.com/terms</loc><priority>0.4</priority></url>
+  <url><loc>https://tunnelo.com/privacy</loc><priority>0.4</priority></url>
+  <url><loc>https://tunnelo.com/contact</loc><priority>0.5</priority></url>
+</urlset>
